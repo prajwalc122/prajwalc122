@@ -4,7 +4,7 @@
 
 I am a BCA student passionate about software development and technology.
 
-🎯 **Goal:** Become a Full Stack Developer and build scalable, real-world applications.
+🎯 **Goal:** Become a Full Stack Developer and build scalable real-world applications.
 
 ### Frontend Skills
 - HTML
@@ -49,7 +49,7 @@ I am a BCA student passionate about software development and technology.
 
 ## 🎯 Long-Term Goal
 
-Become a Full Stack Developer and build scalable, real-world applications.
+Become a Full Stack Developer and build scalable real-world applications That helps in peoples indeed.
 
 ---
 
