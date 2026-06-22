@@ -1,4 +1,4 @@
-# Hi there, I'm Prajwal 👋
+# Hi there, I'm Prajwal 👋 
 
 ## 💫 About Me
 
