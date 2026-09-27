@@ -24,9 +24,6 @@ To build useful, scalable, and practical software that solves real-world problem
 
 ---
 
-Always learning, building, and exploring new technologies.
-
-
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
