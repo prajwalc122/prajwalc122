@@ -1,30 +1,31 @@
-# Hi there, I'm Prajwal 👋 
+# Hi there, I'm Prajwal
 
-## 💫 About Me
+## About Me
 
-I am a BCA student passionate about software development and technology.
+I am a BCA student passionate about **Web Development, Software Development, and Technology**.
 
-🎯 **Goal:** Become a Full Stack Developer and build scalable real-world applications.
+I enjoy building modern, responsive websites and working on **real-world projects** that solve practical problems.
 
-### Frontend Skills
-- HTML
-- CSS
-- JavaScript
-- Responsive Web Design
+## Current Focus
 
-### 🚀 Currently Learning
-- Backend Development
-- Databases
-- REST APIs
-- Git & GitHub
+* Web Development
+* Backend Development
+* Databases
+* REST APIs
+* Git & GitHub
 
-### 💡 Interested In
-- Full Stack Development
-- Open Source Contribution
-- Problem Solving
-- Software Development
+## Future
+
+I plan to explore **Artificial Intelligence, Machine Learning, and AI-powered applications** as I continue developing my technical skills.
+
+## Goal
+
+To build useful, scalable, and practical software that solves real-world problems.
 
 ---
+
+Always learning, building, and exploring new technologies.
+
 
 ## 💻 Tech Stack
 
@@ -36,21 +37,5 @@ I am a BCA student passionate about software development and technology.
 
 ---
 
-## 🌱 Current Focus
-
-- Backend Development
-- Database Management
-- REST APIs
-- Git & GitHub
-- Open Source Contributions
-- Building Full Stack Applications
-
----
-
-## 🎯 Long-Term Goal
-
-Become a Full Stack Developer and build scalable real-world applications That helps in peoples indeed.
-
----
 
 ⭐ Always learning, building projects, and exploring new technologies.
